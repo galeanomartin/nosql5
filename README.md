@@ -1,6 +1,18 @@
-TP ° 5 Crypto Monedas
+Trabajo Practico #5
+Desarrollo de proyecto CryptoAppMongo
 
-Pasos para ejecutar el programa : 
--- Dentro del directorio TP5-NSQL, ejecutar el comando "sudo docker-compose build"
--- Luego, ejecutar "sudo docker-compose up" para levantar los contenedores.
--- El programa se ejecutara en el localhost:3000
+Comandos para iniciar la aplicación.
+docker-compose build
+docker-compose up
+
+Comandos subir a github:
+Desde la carpeta del proyecto
+git init
+git add .
+git commit -m "first commit"
+git remote add origin https://github.com/NOMBRE_USUARIO/NOMBRE_PROYECTO.git
+git push -u origin master 
+Si no anda forzarlo
+git push -u -f origin master
+
+
